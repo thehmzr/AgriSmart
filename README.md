@@ -6,7 +6,7 @@
 
 AgriSmartPro mobile app is an innovative agricultural tool designed to empower farmers with advanced technological features directly accessible from their smartphones. The primary objective of the AgriSmartPro mobile app is to optimize farm management by providing real-time data, actionable insights, and AI-driven recommendations. The app helps farmers make informed decisions, streamline inventory management, and improve crop yields through an easy-to-use interface.
 
-![App Screenshot 1](splash.png)
+![App Screenshot 1](splash(3).png)
 
 ## Background
 
